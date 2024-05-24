@@ -1,5 +1,4 @@
-# ccr
-
+# programa.py
 qtd_aluno = int(input('Digite a quantidade de alunos da turma: '))
 for aluno in range(1, qtd_aluno + 1):
     media = 0
